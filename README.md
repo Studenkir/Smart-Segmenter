@@ -54,3 +54,9 @@
 
 ## Авторы
 Попов Андрей, группа 1ПМб-04-1оп-23
+
+## Cкриншоты
+<img width="698" height="374" alt="image" src="https://github.com/user-attachments/assets/7798415c-adac-470b-84f4-1e2c62716d0c" />
+<img width="698" height="373" alt="image" src="https://github.com/user-attachments/assets/1c054e26-70c6-4033-bbaf-7d075e8ca646" />
+<img width="698" height="374" alt="image" src="https://github.com/user-attachments/assets/70e7ac75-88e2-4d45-857d-f3ba04b81fd1" />
+
